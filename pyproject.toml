@@ -9,6 +9,14 @@ readme = "README.md"
 python = "^3.10"
 torch = "^2.4.0"
 plotly = "^5.23.0"
+ipython = "^8.26.0"
+ipykernel = "^6.29.5"
+plotly-express = "^0.4.1"
+transformer-lens = "^2.4.0"
+sae-lens = "^3.18.2"
+ipywidgets = "^8.1.5"
+nbformat = "^5.10.4"
+pandas = "^2.2.2"
 
 
 [build-system]
